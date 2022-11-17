@@ -1,5 +1,6 @@
 {
   "name": "inotes",
+  "homepage": "https://vijayk-singh.github.io/inotes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
